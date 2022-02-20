@@ -1,0 +1,6 @@
+{
+	"port":3306,
+	"dbname": "webapps",
+	"user":"udbwebapps",
+	"password":"12345678"
+}
